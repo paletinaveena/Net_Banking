@@ -154,3 +154,91 @@ def mai():
     print("\033[0;30mx"*127)
     
 mai()
+
+# to display date n time
+
+import datetime
+now=datetime.datetime.now()
+
+#Net-Banking operations(credit,debit,to change PIN, to check balance and to quit)
+
+def op():
+    ch=int(input("\033[1m transaction:" +"\033[1m"))
+    if ch==1:
+        print("\n"+"\033[0;30mx"*127)
+        print("\033[1mBalance : "+"\033[1m" , df.iloc[p]['Balance'])
+        deposit=int(input("Enter your amount to be deposited : " +"\033[1m"))
+        if deposit>0:
+            print("Your amount has been successfully deposited to your account")
+            print("Your current balance is:")
+            print("Balance : " , df.iloc[p]['Balance'])
+            print("\033[1mThanks for using CACHE BANK" +"\033[1m")
+            amt = df.iloc[p]['Balance'] + deposit
+            df.loc[p,'Balance'] = amt
+            df.to_csv("bank-details.csv")
+        else:
+            print("\033[1mIvalid amount to proceed...Operation Unsuccessful" +"\033[1m")
+        print("\n"+"\033[0;30mx"*127)
+            
+            
+    if ch==2:
+        print("\n"+"\033[0;30mx"*127)
+        print("\033[1mBalance : " +"\033[1m", df.iloc[p]['Balance'])
+        amount = int(input("Enter your amount to proceed:"))
+        if amount < (df.iloc[p]['Balance']):
+            print("Collect your cash!")
+            df.loc[p,'Balance'] = df.loc[p,'Balance']-amount
+            df.to_csv("bank-details.csv")
+            print("Your current balance is:")
+            print("Balance : " , df.iloc[p]['Balance'])
+            print("\033[1mThanks for using CACHE BANK" +"\033[1m")
+        else:
+            print("\033[1mNo sufficient balance...Operation Failed" +"\033[1m")
+        print("\n"+"\033[0;30mx"*127)
+            
+    if ch==3:
+        print("\n"+"\033[0;30mx"*127)
+        change_pin = input("\033[1mEnter new PIN here : " +"\033[1m");
+        length = len(change_pin) 
+        if length == 4:
+            print("\033[1mYour PIN has been successfully changed..! " +"\033[1m")
+            print("New PIN: "+change_pin)
+            df.loc[p,'Pin'] = change_pin
+            df.to_csv("bank-details.csv")
+            print("\033[1mThanks for using CACHE BANK" +"\033[1m")
+        else:
+            print("\033[1mIvalid PIN to proceed....Operation Failed" +"\033[1m ")
+        print("\n"+"\033[0;30mx"*127)
+            
+    if ch==4:
+        print("\n"+"\033[0;30mx"*127)
+        print("\033[1mDate and Time : " +"\033[1m " +now.strftime('%d - %m - %y %H:%M:%S'))
+        print("\n"+"\033[0;30mx"*127)
+        print("\033[1mPlease collect your mini statement" +"\033[1m ")
+        print(df.loc[p])
+        print("\033[1mThanks for using CACHE BANK" +"\033[1m ")
+        print("\n"+"\033[0;30mx"*127)
+            
+    if ch==5:
+        print("\n"+"\033[0;30mx"*127)
+        quit1 = input("\033[1mPress Y to quit...!" +"\033[1m ")
+        if quit1 == "Y":
+            print("Quit")
+        else:
+            print("\033[1mChoose any transaction please:"+"\033[1m ")
+        print("\n"+"\033[0;30mx"*127)
+        op()
+        
+#user dropdown menu
+
+print("\033[0;30mx"*127)
+print("\033[1m \033[34m \033[4m \t\t\t\t\t\t\t CACHE BANK" +"\033[1m \033[34m \033[4m")
+print("\033[0;30mx"*127)
+print("choose your option:")
+print("1. Credit Denomination")
+print("2. Debit Denominaton")
+print("3. Change your PIN")
+print("4. Mini Statement")
+print("5. Quit")
+op()
+
