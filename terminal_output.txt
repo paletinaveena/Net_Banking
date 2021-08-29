@@ -3,59 +3,81 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
-
-Enter your Name :Prasad
+Enter your Name:Disha
   NAME VALIDATED
 
-Enter your Account Number :AC1020
+Enter your Account Number:AC1028
   ACCOUNT NUMBER VALIDATED
 
-Enter your Pin Number :1133
-  Pin NUMBER VALIDATED
+Enter your Pin Number:3182
+  PIN NUMBER VALIDATED
 
-Enter you Phone Number : 9986543678
-  PHONE NUMBER IS VALID
-
+Enter you Phone Number : 7452633981
  					 CAN PROCEED TO NEXT STEP
 
 
-An OTP has been sent to your Phone number as displayed 
-  9986543678  :  7843
-Enter the OTP received to check for authentication :7843
-
-
-
+An OTP from CACHE BANK: 2975
+Enter the OTP received to check for authentication :2975
  						 ACCESS GRANTED 
+
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
    							 CACHE BANK  
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-choose your option:
 1. Credit Denomination
 2. Debit Denominaton
 3. Change your PIN
 4. Mini Statement
 5. Quit
- transaction:4
+ Select Operation:1
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Date and Time :  24 - 12 - 20 20:22:17
+Balance :  65000
+Enter your amount to be credited: 4000
+Your amount has been successfully deposited to your account
+Your current balance is:
+Balance :  69000
+Thanks for using CACHE BANK
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1. Credit Denomination
+2. Debit Denominaton
+3. Change your PIN
+4. Mini Statement
+5. Quit
+ Select Operation:4
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Date and Time :  29 - 08 - 21 20:27:20
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Please collect your mini statement 
-Unnamed: 0                                        0
-Account_no                                   AC1020
-Pin                                            1133
-Name                                         Prasad
-Branch_name                              whitefield
-Branch_no                                         4
-Phone_no                                 9986543678
-E-mail_id                         prasu19@gmail.com
-Age                                              28
-Address        #81, 5th main, whitefield, bangalore
-Balance                                     5600000
-Name: 0, dtype: object
+Account_no                           AC1028
+Pin                                    3182
+Name                                  Disha
+Gender                                    F
+ Branch_name                 bashyam circle
+Branch_no                                 3
+Phone_no                         7452633981
+E-mail_id             dishaaa1234@gmail.com
+Age                                      34
+Address         #26, rajajinagar, bangalore
+Balance                               69000
+Name: 9, dtype: object
 Thanks for using CACHE BANK 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1. Credit Denomination
+2. Debit Denominaton
+3. Change your PIN
+4. Mini Statement
+5. Quit
+ Select Operation:5
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Press Y to quit...! Y
+Quit
