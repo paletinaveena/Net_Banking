@@ -1,31 +1,31 @@
-Account_no,Pin,Name,Branch_name,Branch_no,Phone_no,E-mail_id,Age,Address,Balance
-AC1020,1133,Prasad,whitefield,4,9986543678,prasu19@gmail.com,28,"#81, 5th main, whitefield, bangalore",5607000
-AC1021,5413,Sumit khosla,basavanagudi,7,9633674568,sumitkho@gmail.com,45,"#456, 2nd block, sumeru apt, basavangudi, bangalore",90000
-AC1022,9037,Rajni shenoy,vijayanagar,1,9654258135,shenoy_rajni@gmail.com,67,"#3565, ""ramnath"", hampinagar, bangalore",250000
-AC1023,6905,Harshitha simoga,vijayanagar,1,9864367832,harsh03@gmail.com,21,"#841, 2nd stage, vijayanagar, bangalore",46000
-AC1024,8251,Anitha Trivedi,chandralayout,6,8689763134,anithatrivedi11@hotmail.com,56,"#21, nagarbhavi,bangalore",367000
-AC1025,4603,Akash coorg,yelahanka,8,9988577886,coorg_047@gmail.com,34,"#567, New BEL, 8th main road, bangalore",97000
-AC1026,7823,Jeshwanth,whitefield,4,9445567782,jeshwanth83@gmail.com,58,"#121, 4th stage, 5th main road, whitefield, bangalore",300000
-AC1027,7915,Dhakshayini,mahalakshmi layout,2,8887521136,dak$h@hotmail.com,78,"#787, rajkumar road, mahalakshmi layout, bangalore",500000
-AC1028,3182,Disha,bashyam circle,3,7452633981,dishaaa1234@gmail.com,34,"#26, rajajinagar, bangalore",60000
-AC1029,5370,Ghousia,mahalakshmi layout,2,7893214523,ghozia@gmail.com,53,"mahalakshmilayout metro station, bangalore",94000
-AC1030,2870,Samiulla,basavanagudi,7,8885522366,samiullashareef@gmail.com,87,"#89, 8th main road, basavanagudi, bangalore",6000000
-AC1031,4784,Divya Manjunath,yelahanka,8,9342561818,manju#43@gmail.com,66,"yelahanka old town, bangalore",430000
-AC1032,9092,Ahan samdhani,vijayanagar,1,9134672901,ahan87samdhani@hotmail.com,34,"#243, old alarimara road, vijayanagar, bangalore",75000
-AC1033,7866,Rajshekar,kormangala,5,8867778904,shekarofficial@gmail.com,52,"""street treat"", 9th main road, kormangala, bangalore",92000
-AC1034,1471,Rhutuja Asekar,basavanagudi,7,9342578191,rhutujaaselar@yahoo.com,41,"#45, orchid apts, basavanagudi, bangalore",5000
-AC1035,3012,Yashas,chandralayout,6,9342576161,yash@hotmail.com,28,"#908, near nammauru thindi, kengeri, bangalore",64000
-AC1036,8714,Prathiba,kormangala,5,9432786210,pratibha1931@gmail.com,90,"#98, near appolo hospital, kormangala.bangalore",4500000
-AC1037,5788,Manjula,kormangala,5,8876668903,manjubabi@gmail.com,45,"#98, near appolo hospital, kormangala.bangalore",76000
-AC1038,7264,Dhevadutta,bashyam circle,3,7843647127,dhevadutta1234@gmial.com,64,"#32, 4th stage, 6th main road, bashyam circle, bangalore",54000
-AC1039,3120,Rohini,yelahanka,8,8864219181,ro47@yahoo.com,38,"#80, 4th main road, near new town bus stand,yelahanka, bangalore",86425
-AC1040,6070,Nagashree,whitefield,4,9342456781,nagashree_abc11@hotmail.com,59,"#2245, gurukul apts, 11th main road, whitefild, bangalore",327500
-AC1041,1218,Rohith,yelahanka,8,9880964077,rohit@gmail.com,40,"#781, doddabommasandra, yelahanka, bangalore",75395
-AC1042,1537,Basavaraj,mahalakshmi layout,2,8862791819,basavaraj2000@gmail.com,20,"#7801, old oak apts, rajkumar road, bangalore",50423
-AC1043,8345,Kiran,chandralayout,6,8884087388,kirAn@gmail.com,70,"#52, green wood apts, 1st stage,18th road, nagarbhavi, bangalore",753469
-AC1044,7179,Mamatha,bashyam circle,3,9483217476,mamathaindepe@yahoo.com,75,"#63,navrang circle, bashyam circle ",9662420
-AC1045,2681,Yuvashree,vijayanagar,1,9480706548,yuvandy@gmail.com,78,"#345, 2nd stage, manuvana, Vijayanagar ",7852390
-AC1046,9182,Ramya rajesh,chandralayout,6,7338342613,ramya_rajesh@gmail.com,35,"#999,3rd stage, dollars colony, Chandralayout ",56391
-AC1047,7509,Roopesh,whitefield,4,9164372708,roopeshthegr8@hotmail.com,37,"#45,5th block, babusingh nagar, white field",58960
-AC1048,5636,Faisal,mahalakshmi layout,2,9620186712,fai_sal63@gmail.com,67,"#503, 2nd block, Maha Lakshmi Layout",4598723
-AC1049,2022,Mrinal Mangoli,bashyam circle,3,9748914290,mr_mango@gmail.com,25,"#1051,rajajinagar 5th block, Bangalore 10",602500
+,Account_no,Pin,Name,Gender, Branch_name,Branch_no,Phone_no,E-mail_id,Age,Address,Balance
+1,AC1020,1133,Prasad, M, whitefield,4,9986543678,prasu19@gmail.com,28,"#81, 5th main, whitefield, bangalore",5607000
+2,AC1021,5413,Sumit khosla, M, basavanagudi,7,9633674568,sumitkho@gmail.com,45,"#456, 2nd block, sumeru apt, basavangudi, bangalore",90000
+3,AC1022,9037,Rajni shenoy, F, vijayanagar,1,9654258135,shenoy_rajni@gmail.com,67,"#3565, ""ramnath"", hampinagar, bangalore",250000
+4,AC1023,6905,Harshitha simoga, F, vijayanagar,1,9864367832,harsh03@gmail.com,21,"#841, 2nd stage, vijayanagar, bangalore",46000
+5,AC1024,8251,Anitha Trivedi, F, chandralayout,6,8689763134,anithatrivedi11@hotmail.com,56,"#21, nagarbhavi,bangalore",367000
+6,AC1025,4603,Akash coorg, M, yelahanka,8,9988577886,coorg_047@gmail.com,34,"#567, New BEL, 8th main road, bangalore",97000
+7,AC1026,7823,Jeshwanth, M, whitefield,4,9445567782,jeshwanth83@gmail.com,58,"#121, 4th stage, 5th main road, whitefield, bangalore",300000
+8,AC1027,7915,Dhakshayini, F, mahalakshmi layout,2,8887521136,dak$h@hotmail.com,78,"#787, rajkumar road, mahalakshmi layout, bangalore",500000
+9,AC1028,3182,Disha, F, bashyam circle,3,7452633981,dishaaa1234@gmail.com,34,"#26, rajajinagar, bangalore",69000
+10,AC1029,5370,Ghousia, F, mahalakshmi layout,2,7893214523,ghozia@gmail.com,53,"mahalakshmilayout metro station, bangalore",94000
+11,AC1030,2870,Samiulla, F, basavanagudi,7,8885522366,samiullashareef@gmail.com,87,"#89, 8th main road, basavanagudi, bangalore",6000000
+12,AC1031,4784,Divya Manjunath, F, yelahanka,8,9342561818,manju#43@gmail.com,66,"yelahanka old town, bangalore",430000
+13,AC1032,9092,Ahan samdhani, M, vijayanagar,1,9134672901,ahan87samdhani@hotmail.com,34,"#243, old alarimara road, vijayanagar, bangalore",75000
+14,AC1033,7866,Rajshekar, M, kormangala,5,8867778904,shekarofficial@gmail.com,52,"""street treat"", 9th main road, kormangala, bangalore",92000
+15,AC1034,1471,Rhutuja Asekar, M, basavanagudi,7,9342578191,rhutujaaselar@yahoo.com,41,"#45, orchid apts, basavanagudi, bangalore",5000
+16,AC1035,3012,Yashas, M, chandralayout,6,9342576161,yash@hotmail.com,28,"#908, near nammauru thindi, kengeri, bangalore",64000
+17,AC1036,8714,Prathiba, F, kormangala,5,9432786210,pratibha1931@gmail.com,90,"#98, near appolo hospital, kormangala.bangalore",4500000
+18,AC1037,5788,Manjula, F, kormangala,5,8876668903,manjubabi@gmail.com,45,"#98, near appolo hospital, kormangala.bangalore",76000
+19,AC1038,7264,Dhevadutta, M, bashyam circle,3,7843647127,dhevadutta1234@gmial.com,64,"#32, 4th stage, 6th main road, bashyam circle, bangalore",54000
+20,AC1039,3120,Rohini, F, yelahanka,8,8864219181,ro47@yahoo.com,38,"#80, 4th main road, near new town bus stand,yelahanka, bangalore",86425
+21,AC1040,6070,Nagashree, F, whitefield,4,9342456781,nagashree_abc11@hotmail.com,59,"#2245, gurukul apts, 11th main road, whitefild, bangalore",327500
+22,AC1041,1218,Rohith, F, yelahanka,8,9880964077,rohit@gmail.com,40,"#781, doddabommasandra, yelahanka, bangalore",75395
+23,AC1042,1537,Basavaraj, M, mahalakshmi layout,2,8862791819,basavaraj2000@gmail.com,20,"#7801, old oak apts, rajkumar road, bangalore",50423
+24,AC1043,8345,Kiran, M, chandralayout,6,8884087388,kirAn@gmail.com,70,"#52, green wood apts, 1st stage,18th road, nagarbhavi, bangalore",753469
+25,AC1044,7179,Mamatha, F, bashyam circle,3,9483217476,mamathaindepe@yahoo.com,75,"#63,navrang circle, bashyam circle ",9662420
+26,AC1045,2681,Yuvashree, F, vijayanagar,1,9480706548,yuvandy@gmail.com,78,"#345, 2nd stage, manuvana, Vijayanagar ",7852390
+27,AC1046,9182,Ramya rajesh, F, chandralayout,6,7338342613,ramya_rajesh@gmail.com,35,"#999,3rd stage, dollars colony, Chandralayout ",56391
+28,AC1047,7509,Roopesh, M, whitefield,4,9164372708,roopeshthegr8@hotmail.com,37,"#45,5th block, babusingh nagar, white field",58960
+29,AC1048,5636,Faisal, M, mahalakshmi layout,2,9620186712,fai_sal63@gmail.com,67,"#503, 2nd block, Maha Lakshmi Layout",4598723
+30,AC1049,2022,Mrinal Mangoli, M, bashyam circle,3,9748914290,mr_mango@gmail.com,25,"#1051,rajajinagar 5th block, Bangalore 10",602500
